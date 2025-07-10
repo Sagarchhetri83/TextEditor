@@ -29,6 +29,13 @@ Handles large text with a vertical scrollbar.
 
 ---
 
+## 📸 Screenshot
+
+![Text Editor](screenshot/editor.png)
+
+
+---
+
 ##  Built With
 
 - **Java (JDK 8+)**
