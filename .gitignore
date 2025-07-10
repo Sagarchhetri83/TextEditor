@@ -1,0 +1,22 @@
+# Ignore class files
+*.class
+
+# Ignore JAR, WAR, EAR
+*.jar
+*.war
+*.ear
+
+# Ignore logs
+*.log
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# Ignore VS Code workspace settings (if you open there)
+.vscode/
+
+# Ignore macOS and Windows system files
+.DS_Store
+Thumbs.db
